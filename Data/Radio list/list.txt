@@ -1,0 +1,12 @@
+Авторадио - Москва - Музыка - 22 кб - http://www.in-radio.ru/radio/avtoradio/listen.m3u
+Хит ФМ - Москва - Музыка - 31 кб/с - http://cluster.quantumart.ru/broadcast/?media=hitfm
+Лва Радио - Москва - Музыка - 32 кб/с - http://audio.rambler.ru/play.html?id=843590
+Радио Дача - Москва - Музыка - 32 кб/с - http://stream.n340.com:8000/radiodacha_low.mp3.m3u
+Радио Premium - Москва - Музыка - 32кб/с - http://listen.rpfm.ru:9000/premium32
+Юмор ФМ - Москва - Разговорный - 20 кб/с - http://audio.rambler.ru/play.html?id=989
+Радио Шторм - Москва - Музыка - 32 кб/с - http://radio-shtorm.ru:8000/32.m3u
+BestDance FM - Москва - Музыка - 16 кб/с - http://88.198.61.231:8200/
+Маяк - Москва - Разговорный - 32 кб/с - mms://stream03.rambler.ru/radiomayak?WMContentBitrate=60000
+Первое популярное - Москва - Музыка - 32 кб/с - http://audio.rambler.ru/play.html?id=1004
+Радио Метро - Санкт-Петербург - Музыка - 32 кб/с - http://alpha.metroclub.ru/online/studio_32.asx
+Бизнес ФМ - Москва - Разговорный - 32 кб/с - http://audio.rambler.ru/play.html?id=2865
